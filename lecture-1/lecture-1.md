@@ -42,7 +42,7 @@ int main() {
 
 **Line 2:** `{` is used to Start of the function.
 
-**Line 3:** `std::cout<<`"" std stands for standard namespace. `::` is a scope operator.<br> `cout` stands for console out.<br> `<<` is a function used to output print text to the screen or to flash out or Insertion operator or left shift.<br> The line `cout << "Hello world!";` to be displayed on the screen.<br>**`;`** semicolon used to terminate any statement.
+**Line 3:** `std::cout<<"Hello world!";`<br> `std` stands for standard namespace. `::` is a scope operator.<br> `cout` stands for console out.<br> `<<` is a function used to output print text to the screen or to flash out or Insertion operator or left shift.<br> The line `cout << "Hello world!";` to be displayed on the screen.<br>**`;`** semicolon used to terminate any statement.
 
 **Line 4:** `return 0;` return 0 means that the program will execute successfully.
 
