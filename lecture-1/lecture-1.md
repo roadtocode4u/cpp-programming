@@ -1,11 +1,20 @@
 
 # Lecture-1 Introduction to C++ Programming
 
+## 💁🏻‍♀️ Introduction
+
+![C++](/assets/cpplogo.png) 
+![bjarne stroustrup](/assets/bjarne%20stroustrup.jpg)
 ## 🤔What is Programming ?
 
 Programming is the process of instructions that tell a computer how to perform a task.
-
-## What is C++ Programmong?
+## Why Learn C++?
+* C++ is used to develop games, desktop apps, operating systems, browsers, and so on.
+* C++ Executes very fast.
+* Rich Library support.
+* Machine Independent & Platform Dependent language.
+* C++ allows you to divide complex problems into smaller sets by using objects.
+## What is C++ Programming?
 * C++ was developed by **Bjarne Stroustrup** starting in **1979** at **Bell Labs** in **Murray Hill, New Jersey**.
 * C++ is a general purpose, case-sensitive and object-oriented programming.
 * C++ is a middle-level language as it is a combination of both high-level and low-level language features,
@@ -18,6 +27,7 @@ C++ supports Object-Oriented Programming, including the four pillars of Object-O
 * Data hiding
 * Inheritance
 * Polymorphism
+
 
 **💻 Example 1 :**
 ```cpp
@@ -42,7 +52,7 @@ int main() {
 
 **Line 2:** `{` is used to Start of the function.
 
-**Line 3:** `std::cout<<"Hello world!";`<br> `std` stands for standard namespace. `::` is a scope operator.<br> `cout` stands for console out.<br> `<<` is a function used to output print text to the screen or to flash out or Insertion operator or left shift.<br> The line `cout << "Hello world!";` to be displayed on the screen.<br>**`;`** semicolon used to terminate any statement.
+**Line 3:** `std::cout<<"Hello world!";`<br> `std` stands for standard namespace. `::` is a scope operator.<br> `cout` stands for console out.<br> `<<` is a function used to output print text to the screen or to flash out or Insertion operator or left shift.<br> The line `cout << "Hello world!";` causes the message "Hello World!" to be displayed on the screen.<br>**`;`** semicolon used to terminate any statement.
 
 **Line 4:** `return 0;` return 0 means that the program will execute successfully.
 
