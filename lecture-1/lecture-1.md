@@ -17,8 +17,8 @@ Programming is the process of instructions that tell a computer how to perform a
 ## What is C++ Programming?
 * C++ was developed by **Bjarne Stroustrup** starting in **1979** at **Bell Labs** in **Murray Hill, New Jersey**.
 * C++ is a general purpose, case-sensitive and object-oriented programming.
-* C++ is a middle-level language as it is a combination of both high-level and low-level language features,
-* C++ is a superset of C, that means any C program is a legal C++ program
+* C++ is a middle-level language as it is a combination of both high-level and low-level language features.
+* C++ is a superset of C, that means any C program is a legal C++ program.
 
 **Object-Oriented Programming**
 
@@ -52,7 +52,7 @@ int main() {
 
 **Line 2:** `{` is used to Start of the function.
 
-**Line 3:** `std::cout<<"Hello world!";`<br> `std` stands for standard namespace. `::` is a scope operator.<br> `cout` stands for console out.<br> `<<` is a function used to output print text to the screen or to flash out or Insertion operator or left shift.<br> The line `cout << "Hello world!";` causes the message "Hello World!" to be displayed on the screen.<br>**`;`** semicolon used to terminate any statement.
+**Line 3:** `std::cout<<"Hello world!";`<br> `std` stands for standard namespace. `::` is a scope operator.<br> `cout` stands for console out.<br> `<<` is a function used to output print text to the screen or to flash out it is also called Insertion operator or left shift.<br> The line `cout << "Hello world!";` causes the message "Hello World!" to be displayed on the screen.<br>**`;`** semicolon used to terminate any statement.
 
 **Line 4:** `return 0;` return 0 means that the program will execute successfully.
 
