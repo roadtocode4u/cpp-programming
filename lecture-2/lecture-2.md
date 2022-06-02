@@ -1,5 +1,5 @@
 
-# Lecture-1 Datatypes & Variables
+# Lecture-2 Datatypes & Variables
 
 
 **💻 Program to used cout without 'using names space'  :**
