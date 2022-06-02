@@ -2,7 +2,7 @@
 # Lecture-1 Datatypes & Variables
 
 
-**💻 Example 1 :**
+**💻 Program to used cout without 'using names space'  :**
 ```cpp
 #include <iostream>
 
@@ -16,16 +16,16 @@ int main() {
 **⚙️ Output :**
 >Hello world!
 
-**💻 Example 2 :**
+**💻 program  :**
 ```cpp
 #include <iostream>
 using namespace std;
 
 int main() {
   
-    std::cout << "Hello world!";
+    cout << "Hello world!";
 
-    std::cout << "\n This is another text";
+    cout << "\n This is another text";
 
     return 0;
 }
@@ -35,12 +35,11 @@ int main() {
 >This is another text
 
 ## variables & constants
-* variables : its change<br> (in programing language data stored in variable)<br>
+* variables : it changes<br> (in programing language data stored in variable)<br>
 
-* constant : its not change
+* constant : it does not change
 
-## DataTypes 
- * which type of data are stored in variable
+## DataTypes : which type of data to be stored in variable
 
  **Example 1 :** 1 , 2 , 3 , 4 ---> integer , int <br>
   **Example 2 :** 7.2 , 8.4 , 3.5 , 4.3 ---> floating , float  <br>
@@ -80,10 +79,9 @@ int main() {
 ```
 **⚙️ Output :**
 >22
+ 
 
-## Addition of  Two Number 
-
-**💻 Example 4 :**
+**💻 Addition of  Two Number :**
 ```cpp
 
 #include <iostream>
@@ -106,7 +104,7 @@ int main() {
 >30
 
 
-**💻 Example 2 :**
+**💻 program to illustrate used of \n (new line):**
 ```c
 
 #include <iostream>
@@ -124,12 +122,12 @@ int main() {
 >Hello World<br>
 Hello ABC!
 
-## Rules of Variable
+## Rules to declared Variable
 
-1. variable name should be  meaningful
-2. variablename may contain (a-z,A-Z,0-9,_)
-3. variable name cannot start with number
-4. It Should not be reserved keyword
+1. Variable name should be  meaningful
+2. Variable name may contain (a-z,A-Z,0-9,_)
+3. Variable name cannot start with number
+4. It should not be reserved keyword
 5. There should not be any special charecter
 
 ## 🔗 Some Useful Links
