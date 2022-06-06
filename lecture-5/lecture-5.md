@@ -70,7 +70,7 @@ int main() {
 **⚙️ Output :**
 >10
 
-**💻 Example 3 : Addition of two numbers**
+**💻 Example 3 : Multiplication of two numbers**
 ```cpp
 #include <iostream>
 using namespace std;
