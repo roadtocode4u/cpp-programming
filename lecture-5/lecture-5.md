@@ -1,5 +1,5 @@
 
-# Lecture-6 Arithmetic Operators, Inc/Dec Operators
+# Lecture-5 Arithmetic Operators, Inc/Dec Operators
 
 **Operators :**  
 
