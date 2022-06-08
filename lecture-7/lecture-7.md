@@ -193,7 +193,7 @@ int main() {
 >0
 
 ```cpp
-2. Logical NOT/ NEGATION  (!) 
+3. Logical NOT/ NEGATION  (!) 
  ```
 
 **💻 Example 1 :**
