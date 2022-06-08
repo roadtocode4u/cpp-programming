@@ -5,3 +5,4 @@
 ## 👉 [Lecture-3 Taking input from user ](/lecture-3/lecture-3.md)
 ## 👉 [Lecture-4 endl, newline character, swapping of two variables ](/lecture-4/lecture-4.md)
 ## 👉 [Lecture-5 Arithmetic Operators, Inc/Dec Operators ](/lecture-5/lecture-5.md)
+## 👉 [Lecture-6 Assignment Operators & Relational Operators ](/lecture-6/lecture-6.md)
