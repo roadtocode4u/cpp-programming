@@ -30,7 +30,7 @@ int cal_si(p,r,t)
 */
 ```
 
-**💻 Example 1 :**
+**💻 Example 1 : example of ternary operator**
 ```cpp
 #include <iostream>
 using namespace std;
