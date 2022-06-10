@@ -44,7 +44,9 @@ else
 using namespace std;
 
 int main() {
-    int num = 2;
+    int num;
+    cout<<"Enter Number: ";
+    cin>>num;
 
     if(num==1){
         cout<<"One";
@@ -66,7 +68,8 @@ int main() {
 }
 ```
 **⚙️ Output :**
->Two
+>Enter Number : 3<br>
+Three
 
 **💻 Example 2 :**
 ```cpp
@@ -74,7 +77,9 @@ int main() {
 using namespace std;
 
 int main() {
-    int num = 8;
+    int num;
+    cout<<"Enter Number: ";
+    cin>>num;
 
     if(num==1){
         cout<<"One";
@@ -96,7 +101,8 @@ int main() {
 }
 ```
 **⚙️ Output :**
->Not Matched...
+>Enter Number : 8<br>
+Not Matched...
 
 **💻 Example 3 :**
 ```cpp
@@ -110,13 +116,13 @@ int main() {
     cin>>marks;
 
     if(marks>90){
-        cout<<"A";
+        cout<<" Grade A";
     }
     else if(marks>80){
-        cout<<"B"; 
+        cout<<"Grade B"; 
     }
     else if(marks>70){
-        cout<<"C"; 
+        cout<<" Grade C"; 
     }
     else
     {
@@ -127,7 +133,7 @@ int main() {
 ```
 **⚙️ Output :**
 >Enter Marks : 85<br>
-B
+Grade B
 
 **💻 Example 4 :**
 ```cpp
@@ -141,16 +147,16 @@ int main() {
     cin>>marks;
 
     if(marks>90){
-        cout<<"A";
+        cout<<" Grade A";
     }
     else if(marks>80){
-        cout<<"B"; 
+        cout<<"Grade B"; 
     }
     else if(marks>70){
-        cout<<"C"; 
+        cout<<"Grade C"; 
     }
     else if(marks>60){
-        cout<<"D"; 
+        cout<<"Grade D"; 
     }
     else
     {
@@ -163,7 +169,7 @@ int main() {
 >Enter Marks : 25<br>
 Fail
 
-**💻 Example 4 : Boundry Condition**
+**💻 Example 5 : Boundry Condition**
 ```cpp
 #include <iostream>
 using namespace std;
@@ -175,13 +181,13 @@ int main() {
     cin>>marks;
 
     if(marks>=70 && marks<=80>){
-        cout<<"C";
+        cout<<"Grade C";
     }
     else if(marks>=80 && marks<=90){
-        cout<<"B"; 
+        cout<<"Grade B"; 
     }
     else if(marks>=90 && marks <=100){
-        cout<<"A"; 
+        cout<<"Grade A"; 
     }
     else
     {
@@ -195,7 +201,7 @@ int main() {
 >Enter Marks : 100<br>
 A
 
-**💻 Example 4 : Boundry Condition**
+**💻 Example 6 : Boundry Condition**
 ```cpp
 #include <iostream>
 using namespace std;
@@ -207,13 +213,13 @@ int main() {
     cin>>marks;
 
     if(marks>=70 && marks<=80>){
-        cout<<"C";
+        cout<<"Grade C";
     }
     else if(marks>=80 && marks<=90){
-        cout<<"B"; 
+        cout<<"Grade B"; 
     }
     else if(marks>=90 && marks <=100){
-        cout<<"A"; 
+        cout<<"Grade A"; 
     }
     else
     {
@@ -224,10 +230,90 @@ int main() {
 }
 ```
 **⚙️ Output :**
->Enter Marks : &880<br>
+>Enter Marks : 880<br>
 Invalid Number
 
+```cpp
+4. nested-if
+syntax : 
+
+if (condition)
+{
+    if
+    {
+        //-----
+    }
+    else
+    {
+        //----
+    }
+}
+else
+{
+    //----
+}
+```
+
+**💻 Example 1 :**
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int maths=30;
+    int marathi=36;
+
+    if(marks>=35 && marathi>=35>){
+        cout<<"Pass";
+    }
+    else
+    {
+        cout<<"Fail";
+    }  
+
+    return 0;
+}
+```
+**⚙️ Output :**
+>Fail
+
+**💻 Example 2 :**
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int maths=40;
+    int marathi=16;
+
+    if(marathi>=35>)
+    {
+        cout<<"Passed in Marathi";
+        if(maths>=35)
+        {
+            cout<<Passed in Maths"<<endl;
+        }
+         else
+        {
+        cout<<"Failed in Maths";
+        }  
+    }
+    else
+    {
+       cout<<"Failed in Marathi";
+    }
+    return 0;
+}
+```
+**⚙️ Output :**
+>Passed in Maths<br>
+Failed in Marathi
+
+
 ## 🏠  HomeWork
+1️⃣ WAP to calculate largrst number among 3 using if-else-ladder ?
+
+2️⃣ WAP to calculate largest number among 3 using nested-if ?
 
 ## 🔗 Some Useful Links
 

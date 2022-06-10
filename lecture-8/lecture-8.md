@@ -1,5 +1,5 @@
 
-# Lecture-8 Assignment Operators & Relational Operators
+# Lecture-8 if and if-else
 
 ### Comments in C++ : 
 ```
