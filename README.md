@@ -7,4 +7,4 @@
 ## 👉 [Lecture-5 Arithmetic Operators, Inc/Dec Operators ](/lecture-5/lecture-5.md)
 ## 👉 [Lecture-6 Assignment Operators & Relational Operators ](/lecture-6/lecture-6.md)
 ## 👉 [Lecture-7  Logical Operators & Ternary Operator  ](/lecture-7/lecture-7.md)
- ## [Lecture-8 Assignment Operators & Relational Operators   ](/lecture-8/lecture-8.md)
+## 👉[Lecture-8 Assignment Operators & Relational Operators   ](/lecture-8/lecture-8.md)
