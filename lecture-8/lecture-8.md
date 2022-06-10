@@ -86,7 +86,6 @@ int main() {
     return 0
 }
 ```
-
 **⚙️ Output :**
 >Enter Number : 5<br>
 Positive Number
@@ -126,7 +125,6 @@ int main() {
     return 0
 }
 ```
-
 **⚙️ Output :**
 >Enter Number : 5 <br>
 Number is odd
@@ -152,7 +150,6 @@ int main() {
     return 0
 }
 ```
-
 **⚙️ Output :**
 >Enter Number : 4 <br>
 Number is Even
@@ -208,7 +205,7 @@ int main() {
 >Enter Number : 3<br>
 Number is NOT divisible by 5 & 3
 
-
+**💻 Example 5 :** 
 ```cpp
 #include <iostream>
 using namespace std;
@@ -220,7 +217,7 @@ int main() {
     cin>>num;
 
     if(num%3==0 || num%5==0){
-        cout<<"Number is divisible by 5 & 3";
+        cout<<"Number is divisible by 5 or 3";
     }
     else{
         cout<<"Number is NOT divisible by 5 or 3";
@@ -229,17 +226,11 @@ int main() {
     return 0
 }
 ```
-
 **⚙️ Output :**
 >Enter Number : 15<br>
-Number is divisible by 5 0r 3
-
-**⚙️ Output :**
->Enter Number : 4 <br>
-Number is Even
+Number is divisible by 5 or 3
 
 **💻 Example 3 :** 
-
 ```cpp
 #include <iostream>
 using namespace std;
