@@ -8,3 +8,5 @@
 ## 👉 [Lecture-6 Assignment Operators & Relational Operators ](/lecture-6/lecture-6.md)
 ## 👉 [Lecture-7  Logical Operators & Ternary Operator  ](/lecture-7/lecture-7.md)
 ## 👉[Lecture-8 Assignment Operators & Relational Operators   ](/lecture-8/lecture-8.md)
+## 👉[Lecture-9 if-else-ladder and nested-if ](/lecture-9/lecture-9.md)
+## 👉[Lecture-10 Switch Case  ](/lecture-10/lecture-10.md)
