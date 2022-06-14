@@ -134,7 +134,7 @@ int main() {
 1. loops condition is always true .
 2. it always runs because stoppping condition never occurs .
 
-**💻 Example 1️⃣ : Reverse**
+**💻 Example 1️⃣ :**
 ```cpp
 #include <iostream>
 using namespace std;
@@ -160,7 +160,7 @@ int main() {
 .<br>
 infinite
 
-**💻 Example 2️⃣ : Reverse**
+**💻 Example 2️⃣ :**
 ```cpp
 #include <iostream>
 using namespace std;
