@@ -11,3 +11,4 @@
 ## 👉[Lecture-9 if-else-ladder and nested-if ](/lecture-9/lecture-9.md)
 ## 👉[Lecture-10 Switch Case  ](/lecture-10/lecture-10.md)
 ## 👉[Lecture-11 Introduction to For Loop ](/lecture-11/lecture-11.md)
+## 👉[Lecture-12 break and continue keywords  ](/lecture-12/lecture-12.md)
