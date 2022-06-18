@@ -43,21 +43,20 @@ int main() {
 }
 ```
 **⚙️ Output :**
->1=> Xerox Done...
-<br>
-2=> Xerox Done...
-<br>
-3=> Xerox Done...
-<br>
-4=> Xerox Done...
-.<br>
-.<br>
-.<br>
-.<br>
-100=> Xerox Done...
-<br>
+>       1=> Xerox Done...<br>
+       2=> Xerox Done...
+        <br>
+       3=> Xerox Done...
+       <br>
+        4=> Xerox Done...
+        .<br>
+        .<br>
+       .<br>
+        .<br>
+       100=> Xerox Done...
+       <br>
 
-**💻 Example 3️⃣ : Reverse**
+**💻 Example 3️⃣ :**
 ```cpp
 #include <iostream>
 using namespace std;
@@ -91,7 +90,7 @@ int main() {
 24=> Xerox Done...
 
 ```cpp
-continue : It will skip loop only for the currect instance .
+❤️ Continue : It will skip loop only for the currect instance .
 syntax:
 
 for()
