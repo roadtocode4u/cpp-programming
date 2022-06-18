@@ -43,7 +43,7 @@ int main() {
 }
 ```
 **⚙️ Output :**
->       1=> Xerox Done...<br>
+> 1=> Xerox Done...<br>
        2=> Xerox Done...
         <br>
        3=> Xerox Done...
