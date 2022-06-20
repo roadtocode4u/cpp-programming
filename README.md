@@ -12,5 +12,6 @@
 ## 👉[Lecture-10 Switch Case  ](/lecture-10/lecture-10.md)
 ## 👉[Lecture-11 Introduction to For Loop ](/lecture-11/lecture-11.md)
 ## 👉[Lecture-12 break and continue keywords  ](/lecture-12/lecture-12.md)
+## 👉[Lecture-13 while and do-while  ](/lecture-13/lecture-13.md)
 ## 👉[Lecture-15 Function Overloading and Default Arguments  ](/lecture-15/lecture-15.md)
 ## 👉[Lecture-16 Array ](/lecture-16/lecture-16.md)
