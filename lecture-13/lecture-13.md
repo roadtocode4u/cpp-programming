@@ -128,7 +128,7 @@ int main() {
 }
 ```
 **⚙️ Output :**
->Enter value of n: 10
+>Enter value of n: 10<br>
 1<br>
 2<br>
 3<br>
