@@ -39,7 +39,7 @@ returntype functionname(parameter)
 } <- body end
 
 ```
-## Write a Program to Find the Perimeter of a Rectangle 
+## Write a program to find the perimeter of a rectangle 
 
 **💻 Example 2 :**
 ```cpp
@@ -204,6 +204,7 @@ int main(){
 Ans: 25
 
 <br>
+
 *Functions without arguments and without return values.*
 
 **💻 Example 7 :**
