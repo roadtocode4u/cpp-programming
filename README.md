@@ -17,4 +17,4 @@
 ## 👉[Lecture-15 Function Overloading and Default Arguments  ](/lecture-15/lecture-15.md)
 ## 👉[Lecture-16 Array ](/lecture-16/lecture-16.md)
 ## 👉[Lecture-17 Linear Search, Largest Element From An Array ](/lecture-17/lecture-17.md)
-## 👉[Lecture-19 Strings  ](/lecture-19/lecture-19.md)
+## 👉[Lecture-18 Reverse an Array and Binary Search ](/lecture-18/lecture-18.md)
