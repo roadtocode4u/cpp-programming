@@ -100,8 +100,8 @@ int arr[3][4]; //3 rows 4 columns
             cout<<arr[i][j]
         }
        cout<<endl;
-        return 0;
        }
+       return 0;
     }
 ```
 **⚙️ Output :**
@@ -159,8 +159,8 @@ int [3][2] ={{5,2},{8,10}, {16,21}};
             cout<<arr[i][j]
         }
        cout<<endl;
-        return 0;
        }
+       return 0;
     }
 ```
 **⚙️ Output :**
