@@ -94,7 +94,7 @@ Binary Search is a searching algorithm that is used to find the position of an e
 
 **💻Example 3:**
 ```cpp
-// Online C++ compiler to run C++ program online
+
 #include <iostream>
 using namespace std;
 int main() {

@@ -8,8 +8,9 @@
   2. while
   3. do-while
 
+syntax:
+
  ```cpp
- syntax:
  1. for(init; condition; inc/dec)
  {// loop body start
     
