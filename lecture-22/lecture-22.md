@@ -9,19 +9,19 @@ ASCII (American Standard Code for Information Interchange)
 A -> 65               
 B -> 66                   
 C -> 67                
-   .<br>
-   .<br>
-   .<br>
+   .
+   .
+   .
 Z -> 90
 
 <br>
 
-a -> 97<br>
-b -> 98<br>
-c -> 99<br>
-   .<br>
-   .<br>
-   .<br>
+a -> 97
+b -> 98
+c -> 99
+   .
+   .
+   .
 z -> 122 
 ```
 
