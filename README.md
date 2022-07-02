@@ -22,4 +22,4 @@
 ## 👉[Lecture-20 Nested Loop](/lecture-20/lecture-20.md)
 ## 👉[Lecture-21 2D Array ](/lecture-21/lecture-21.md)
 ## 👉[Lecture-22 ASCII and String Operations](/lecture-22/lecture-22.md)
-## 👉[## Lecture-23 Pointers](/lecture-23/lecture-23.md)
+## 👉[Lecture-23 Pointers](/lecture-23/lecture-23.md)
