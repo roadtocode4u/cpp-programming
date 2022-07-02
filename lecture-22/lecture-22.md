@@ -61,7 +61,7 @@ cout<<"Char: "<<alpha;
 }
 ```
 **⚙️ Output :**
->ASCII: 65
+>ASCII: 65<br>
 Char: A
 
 **💻Example 3:**
@@ -147,7 +147,8 @@ int main() {
 #include <iostream>
 using namespace std;
 
-int main() {
+int main() 
+{
     
    string name = "RTC";
    
@@ -163,6 +164,7 @@ int main() {
    }
    
     return 0;
+}
 ```
 **⚙️ Output :**
 >RTC
