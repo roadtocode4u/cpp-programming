@@ -24,3 +24,6 @@
 ## 👉[Lecture-22 ASCII and String Operations](/lecture-22/lecture-22.md)
 ## 👉[Lecture-23 Pointers](/lecture-23/lecture-23.md)
 ## 👉[Lecture-24 Reference](/lecture-24/lecture-24.md)
+## 👉[Lecture-25 Data types and Sizeof Operator](/lecture-25/lecture-25.md)
+## 👉[Lecture-26 Dynamic Memory Allocation](/lecture-26/lecture-26.md)
+## 👉[Lecture-27 Introduction to OOPs](/lecture-27/lecture-27.md)
