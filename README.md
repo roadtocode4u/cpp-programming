@@ -13,7 +13,7 @@
 ## 👉[Lecture-11 Introduction to For Loop ](/lecture-11/lecture-11.md)
 ## 👉[Lecture-12 break and continue keywords  ](/lecture-12/lecture-12.md)
 ## 👉[Lecture-13 while and do-while  ](/lecture-13/lecture-13.md)
-## 👉[Lecture-14 Functions ](/lecture-14/lecture14.md)
+## 👉[Lecture-14 Functions ](/lecture-14/lecture-14.md)
 ## 👉[Lecture-15 Function Overloading and Default Arguments  ](/lecture-15/lecture-15.md)
 ## 👉[Lecture-16 Array ](/lecture-16/lecture-16.md)
 ## 👉[Lecture-17 Linear Search, Largest Element From An Array ](/lecture-17/lecture-17.md)
@@ -27,3 +27,4 @@
 ## 👉[Lecture-25 Data types and Sizeof Operator](/lecture-25/lecture-25.md)
 ## 👉[Lecture-26 Dynamic Memory Allocation](/lecture-26/lecture-26.md)
 ## 👉[Lecture-27 Introduction to OOPs](/lecture-27/lecture-27.md)
+## 👉[Lecture-28 Class and Objects](/lecture-28/lecture-28.md)
