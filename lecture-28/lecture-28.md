@@ -270,15 +270,6 @@ Name: B<br>
 Roll: 2<br>
 
 
-*💻Example 6:*
-```cpp
-
-```
-
-*⚙️ Output :*
-
->
-
 ## 🏠  HomeWork
 1️⃣ 
 
