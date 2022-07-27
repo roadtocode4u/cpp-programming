@@ -28,3 +28,5 @@
 ## 👉[Lecture-26 Dynamic Memory Allocation](/lecture-26/lecture-26.md)
 ## 👉[Lecture-27 Introduction to OOPs](/lecture-27/lecture-27.md)
 ## 👉[Lecture-28 Class and Objects](/lecture-28/lecture-28.md)
+## 👉[Lecture-29 Access Specifier and Scope Resolution Operator](/lecture-29/lecture-29.md)
+## 👉[Lecture-30 Introduction to Inheritance](/lecture-30/lecture-30.md)

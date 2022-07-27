@@ -353,14 +353,6 @@ int main() {
 
 >Hello Everyone
 
-*💻Example 9:*
-```cpp
-
-```
-
-*⚙️ Output :*
-
->
 
 ## 🏠  HomeWork
 1️⃣ 
