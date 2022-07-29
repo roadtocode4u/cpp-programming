@@ -44,7 +44,7 @@ class Emp
     int id;
     void showEmp()
     {
-        cout<<"Emp Id: "<<this->id<<endl;
+        cout<<"Emp ID: "<<this->id<<endl;
     }
 };
 int main() {
