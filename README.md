@@ -31,3 +31,4 @@
 ## 👉[Lecture-29 Access Specifier and Scope Resolution Operator](/lecture-29/lecture-29.md)
 ## 👉[Lecture-30 Introduction to Inheritance](/lecture-30/lecture-30.md)
 ## 👉[Lecture-31 Types of Inheritance](/lecture-31/lecture-31.md)
+## 👉[Lecture-32 Constructor & Destructor](/lecture-32/lecture-32.md)

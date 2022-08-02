@@ -1,4 +1,4 @@
-## Lecture-30 Types of Inheritance
+## Lecture-31 Types of Inheritance
 
 1. Single level inheritance
 2. Multilevel inheritance
