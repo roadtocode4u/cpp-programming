@@ -163,7 +163,8 @@ Show is called...
 
 ## Parameterized constructor :
 ```cpp
-Parameterized constructor : Arguments can be passed to constructors. When an object is created, these arguments help initialize an object. 
+Parameterized constructor :
+Arguments can be passed to constructors. When an object is created, these arguments help initialize an object. 
 
 Student(int roll, string name)
 {
